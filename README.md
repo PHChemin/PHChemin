@@ -75,13 +75,4 @@ Sistema mobile para gestão financeira de frotas de caminhões, desenvolvido com
 
 ---
 
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-chemin-prado-7446422ab/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PHChemin)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:chemin_pedro@outlook.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5542998324878)
-
----
-
 ⭐ Sempre aberto a aprender, colaborar e evoluir como desenvolvedor.
